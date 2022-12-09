@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AltAcco-API-Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AltAcco-Android-Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AltAcco-Android-Automation-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/INGO-Extranet-Web-Automation" vcs="Git" />
+  </component>
+</project>
